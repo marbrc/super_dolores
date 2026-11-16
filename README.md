@@ -1,3 +1,2 @@
 # super_dolores
-
-A new Flutter project.
+Arquitectura de SuperApp: registro de mini-apps, permisos por capacidad (menor privilegio), 
