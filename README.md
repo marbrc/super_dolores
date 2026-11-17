@@ -109,6 +109,34 @@ Arquitectura de SuperApp: registro de mini-apps, permisos por capacidad (menor p
 ## TODAS
 <img width="1102" height="156" alt="image" src="https://github.com/user-attachments/assets/7dd23b94-9d45-4357-aa89-27fd6add3b4d" />
 
+## PANTALLAS
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/1dd57020-e040-4551-b524-86e441dea623" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/c6509dd5-bf3b-4c7e-9340-7b2fa72ad17f" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/8b8d04fd-e556-4975-b48c-bc6366463b34" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/47050412-de23-406b-8ab4-8114aed5476c" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/0b4db855-131b-4874-87e5-8f206391ae14" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/2a0c1394-5043-4c1d-aa47-03d188fa5adf" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/3164e6e3-be31-4aea-af18-8eceb56b2f14" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/28f09022-ad50-48c7-ab02-76f67fe7e347" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/a06808e3-75e1-4293-96db-21d91d020d13" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/20335aab-e89f-404a-a219-d9ff736443b7" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/ac91624d-cecf-4835-b412-75a42171f8f5" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/c1d94876-92d1-4502-9a11-84619a4eb50d" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/5d347969-df21-4b0c-814a-b91ebfef6a69" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/a0d95da2-ca41-4c2a-bc03-879799f0e795" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/9d8d8171-5c09-438d-a321-f0be5bc3ae4b" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/2253ddfd-1ddc-40fe-90c9-5eca9a737b25" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/adb91c86-c534-44ff-ac14-3be0d529beec" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/1c8bdfb1-a772-4718-b881-f3debc8d8ce1" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/7990dcde-46de-4181-af8d-a2afe8537345" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/707af60f-f974-4879-ab87-63a02024a96f" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/1ac6886c-e721-4cf3-a31b-31941f8e4170" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/4433d13e-398b-401a-85b7-3b7346fea4e5" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/43625f92-6854-4bb9-98df-f75a7dfae0ba" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/e9db57ee-d2d9-4aa8-ae26-a01e311cc551" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/14e94041-c4e4-47e2-9c4e-e04d5a932eb8" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/75c9430e-4b65-46f1-957b-b6bcce3eff64" />
+
 
 
 
